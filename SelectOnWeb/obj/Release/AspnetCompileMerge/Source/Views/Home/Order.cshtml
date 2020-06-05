@@ -1,0 +1,102 @@
+﻿@model  List<SelectOnWeb.Models.tb_seat>
+@{
+    ViewBag.Title = "预约座位";
+}
+<div class="page-header">
+    <h1 style="text-align:center;"><span class="hidden-xs">@((ViewBag.curroom as SelectOnWeb.Models.tb_room).name)——座位表</span><span class="visible-xs">@((ViewBag.curroom as SelectOnWeb.Models.tb_room).name)</span></h1>
+    <div style="display:block;position:relative;left:80%" class="hidden-xs">
+        <span style="color:blue;font-size:18px">可预约座位数:</span><span style="color:red;font-size:20px;">@ViewBag.curcount</span>
+    </div>
+</div>
+
+<div class="btn-group" style="position:relative;">
+    @foreach (var item in ViewData["info"] as IEnumerable<SelectOnWeb.Models.tb_room>)
+    {
+        <a href="@Url.Action("Order","Home",new { room=item.no})" name="@item.no" class="room btn btn-default @(item.cur == 0 ? "disabled" : "")"><span class="hidden-xs">@item.name</span><span class="visible-xs">@item.no</span></a>
+        <div class="roominfo" id="roomID@(item.no)">
+            <div style="margin:10px 5px 5px 20px;"><span style="color:blue;margin-top:15px;font-size:18px;">可预约座位数:</span><span style="color:red;font-size:20px;">@ViewBag.curcount</span></div>
+        </div>
+    }   
+</div>
+<a class="btn btn-default pull-right" style="margin-right:4%" onclick="quickselect(@ViewBag.room)">快速预约</a>
+<div style="position:relative;">
+    @for (int i = 0; i < Model.Count() / 4; i++)
+    {
+        <div class="table tablelayout">
+            <a href="javascript:void(0)" class="seat A" data-no="@Model.ElementAt(4 * i).no" style="background-color:@(Model.ElementAt(i * 4).available==false? "grey":"green");"><span class="hidden-xs">@Model.ElementAt(4 * i).no</span><span class="visible-xs">A</span></a>
+            <a href="javascript:void(0)" class="seat B" data-no="@Model.ElementAt(4 * i+1).no" style="background-color:@(Model.ElementAt(i * 4+1).available == false? "grey":"green");"><span class="hidden-xs">@Model.ElementAt(4 * i + 1).no</span><span class="visible-xs">B</span></a>
+            <a href="javascript:void(0)" class="seat C" data-no="@Model.ElementAt(4 * i+2).no" style="background-color:@(Model.ElementAt(i * 4+2).available == false? "grey":"green");"><span class="hidden-xs">@Model.ElementAt(4 * i + 2).no</span><span class="visible-xs">C</span></a>
+            <a href="javascript:void(0)" class="seat D" data-no="@Model.ElementAt(4 * i+3).no" style="background-color:@(Model.ElementAt(i * 4+3).available == false? "grey":"green");"><span class="hidden-xs">@Model.ElementAt(4 * i + 3).no</span><span class="visible-xs">D</span></a>
+            <span class="tablename">@i.ToString("D3") </span>
+        </div>
+    }
+    <p style="clear:both"></p>
+</div>
+<div id="toast" style="display:none;">
+    <div style="position:fixed;width:100%;height:100%;top:0%;left:0%;background-color:gray;opacity:0.8;z-index:1">
+    </div>
+    <div style="font-size:20px;;text-align:center;position:absolute;background-color:white;border-radius:5px;width:300px;height:200px;top:50%;left:50%;margin-top:-100px;margin-left:-150px;opacity:1;z-index:2">
+        <p style="position:relative;top:40px;">恭喜你</p>
+        <p style="position:relative;top:60px;">座位号：<span id="seat_data" style="color:red">360D</span>,预约成功!</p>
+        <p style="position:relative;top:80px"><button class="btn btn-success" onclick="reload()"><span id="num_close">5</span>秒后自动关闭</button></p>
+    </div>
+</div>
+
+@section scripts{
+    <script type="text/javascript">
+        var color;
+        var timer;
+        var selectedseat = -1;
+        $('.seat').hover(function () { color = $(this).css("background-color"); $(this).css("background-color", "red"); }, function () { $(this).css("background-color", color); })
+        $('.seat').click(select_seat);
+        $('.room').hover(
+            function () { $('#roomID'+$(this).attr("name")).css("display", "block").css("left", $(this).position().left); },
+            function () { $('#roomID' + $(this).attr("name")).css("display", "none"); });
+        function select_seat() {
+            $(this).css("background-color", "black");
+            selectedseat = $(this).data("no");
+            if (selectedseat == null)
+                selectedseat = -1;
+            var data = 'id=' + selectedseat + '&room=' + @ViewBag.room;
+            $.post(
+                "@Url.Action("Order", "Home")",
+                data,
+                result
+            );
+        };
+        function result(res) {
+            var result = JSON.parse(res);
+            if (result["status"] == "success") {
+                $("#seat_data").text(result["seat"]);
+                $("#toast").css("display", "block");
+                var second = 5;
+                timer = window.setInterval(function () {
+                    second -= 1;
+                    if (second ==0) {
+                        window.clearInterval(timer);
+                        location.reload();
+                    }
+                    $("#num_close").text(second);
+                }, 1000);
+            }
+            else if (res == "fail") {
+                alert("预约失败！");
+                location.reload();
+            }
+            else {
+                alert("服务器开小差了！");
+            }
+        }
+        function reload() {
+            window.clearInterval(timer);
+            location.reload();
+        }
+        function quickselect(room) {
+            selectedseat = -1;
+            select_seat();
+        }
+    </script>
+}
+@section styles{
+    <link href="~/Content/SeatDisplay.css" rel="stylesheet" />
+}

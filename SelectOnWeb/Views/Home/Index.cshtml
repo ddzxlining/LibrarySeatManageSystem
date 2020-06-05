@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SelectOnWeb.Models.tb_room>
+@{
+    ViewBag.Title = "主页";
+}
+<h1 class="text-center">自习室列表</h1>
+<table class="table text-center">
+    <thead>
+        <tr class="row">
+            <th class="text-center hidden-xs">自习室编号</th>
+            <th class="text-center"><span class="hidden-xs">自习室名称</span><span class="visible-xs">名称</span></th>
+            <th class="text-center"><span class="hidden-xs">当前可用座位数</span><span class="visible-xs">空座</span></th>
+            <th class="text-center hidden-xs">15分钟后可用座位数</th>
+            <th class="text-center"><span class="hidden-xs">当前自习室状态</span><span class="visible-xs">状态</span></th>
+            <th class="text-center"><span class="hidden-xs">选座或预约明天</span><span class="visible-xs">操作</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var status = item.cur == 0;
+            var book = item.book == 0;
+        <tr class="row" style="color:@(status? "red":"black");" >
+            <td class="hidden-xs">@item.no</td>
+            <td >@item.name</td>
+            <td>@item.cur</td>
+            <td class="hidden-xs">@item.after15min</td>
+            <td>@(status ? "满员" : "可选")</td>           
+            <td>
+                @Html.ActionLink("选座", "Select", new { room = item.no }, new { style = "color:black;", @class = "btn btn-default" + (status ? " disabled" : "") })
+                <span>  </span>@Html.ActionLink("预约", "Order", new { room = item.no }, new { style = "color:black;", @class = "btn btn-default" + (book ? " disabled" : "") })
+            </td>     
+        </tr>
+        }
+    </tbody>
+</table>
+@section styles{
+<style type="text/css">
+       @@media only screen and (min-width : 1200px) {
+        .table {
+            font-family: 'Microsoft YaHei UI';
+            font-size: 25px;
+        }
+}
+</style>
+    }

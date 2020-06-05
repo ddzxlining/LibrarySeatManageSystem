@@ -1,0 +1,6 @@
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\db\bin\Debug\db.exe.config
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\db\bin\Debug\db.exe
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\db\bin\Debug\db.pdb
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\db\obj\Debug\db.exe
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\db\obj\Debug\db.pdb

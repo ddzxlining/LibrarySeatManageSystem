@@ -1,0 +1,32 @@
+﻿@model SelectOnWeb.Areas.Admin.Models.AccountViewModel
+@{
+    ViewBag.Title = "Add";
+}
+<h2>添加用户到角色</h2>
+@using (Html.BeginForm("Add", "Account", FormMethod.Post))
+{
+<div class="form-horizontal">
+    @Html.ValidationSummary()
+    <hr />
+    <div class="form-group">
+        <label class="col-md-2 control-label">学/工号</label>
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.sno, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.sno, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">角色名</label>
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.role, ViewData["roles"] as IEnumerable<SelectListItem>, new { @class = "dropdown form-control" })
+            @Html.ValidationMessageFor(model => model.role, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="提交" />
+            @Html.ActionLink("返回", "Index", null, new { @class = "btn btn-default" })
+        </div>
+    </div>
+</div>
+}

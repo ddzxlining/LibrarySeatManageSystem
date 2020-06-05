@@ -1,0 +1,599 @@
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\ApplicationInsights.config
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\SelectOnWeb.dll.config
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\SelectOnWeb.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\SelectOnWeb.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csc.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csc.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csc.rsp
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csi.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csi.rsp
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.AppContext.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\vbc.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\vbc.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\vbc.rsp
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Antlr3.Runtime.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\LibraryOperation.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.Web.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Owin.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Helpers.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Mvc.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Optimization.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Razor.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\WebGrease.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\LibraryOperation.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Helpers.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Mvc.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Optimization.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Razor.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Antlr3.Runtime.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.Web.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csprojResolveAssemblyReference.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.pdb
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\ApplicationInsights.config
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\SelectOnWeb.dll.config
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\SelectOnWeb.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\SelectOnWeb.pdb
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csc.exe
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csc.exe.config
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csc.rsp
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csi.exe
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csi.rsp
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.AppContext.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\vbc.exe
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\vbc.exe.config
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\vbc.rsp
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Antlr3.Runtime.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\LibraryOperation.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.Web.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Newtonsoft.Json.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Owin.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Helpers.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Mvc.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Optimization.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Razor.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\WebGrease.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\LibraryOperation.pdb
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Newtonsoft.Json.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Helpers.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Mvc.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Optimization.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Razor.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Antlr3.Runtime.pdb
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.Web.xml
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CoreCompileInputs.cache
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CopyComplete
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.dll
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.pdb
+F:\近期文件\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\ApplicationInsights.config
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\SelectOnWeb.dll.config
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\SelectOnWeb.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\SelectOnWeb.pdb
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csc.exe
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csc.exe.config
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csc.rsp
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csi.exe
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\csi.rsp
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.AppContext.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\vbc.exe
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\vbc.exe.config
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\vbc.rsp
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Antlr3.Runtime.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\LibraryOperation.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.Web.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Owin.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Helpers.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Mvc.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Optimization.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Razor.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\WebGrease.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\LibraryOperation.pdb
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Helpers.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Mvc.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Optimization.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.Razor.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Antlr3.Runtime.pdb
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\Microsoft.AI.Web.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CopyComplete
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\ApplicationInsights.config
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\SelectOnWeb.dll.config
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\SelectOnWeb.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\SelectOnWeb.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\csc.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\csc.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\csc.rsp
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\csi.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\csi.rsp
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\System.AppContext.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\vbc.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\vbc.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\vbc.rsp
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Antlr3.Runtime.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\EntityFramework.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\LibraryOperation.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.Web.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Owin.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.Helpers.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.Mvc.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.Optimization.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.Razor.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.WebPages.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\WebGrease.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\LibraryOperation.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.Helpers.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.Mvc.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.Optimization.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.Razor.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.WebPages.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Antlr3.Runtime.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\EntityFramework.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\Microsoft.AI.Web.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\StackExchange.Redis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\SelectOnWeb\bin\StackExchange.Redis.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\ApplicationInsights.config
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\SelectOnWeb.dll.config
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\SelectOnWeb.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\SelectOnWeb.pdb
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\csc.exe
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\csc.exe.config
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\csc.rsp
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\csi.exe
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\csi.rsp
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\System.AppContext.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\vbc.exe
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\vbc.exe.config
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\vbc.rsp
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Antlr3.Runtime.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\EntityFramework.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\LibraryOperation.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.Web.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Newtonsoft.Json.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Owin.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.Helpers.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.Mvc.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.Optimization.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.Razor.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.WebPages.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\WebGrease.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\StackExchange.Redis.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\LibraryOperation.pdb
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Newtonsoft.Json.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.Helpers.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.Mvc.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.Optimization.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.Razor.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.WebPages.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Antlr3.Runtime.pdb
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\EntityFramework.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\Microsoft.AI.Web.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\StackExchange.Redis.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csprojAssemblyReference.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CoreCompileInputs.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.csproj.CopyComplete
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\SelectOnWeb\obj\Debug\SelectOnWeb.pdb

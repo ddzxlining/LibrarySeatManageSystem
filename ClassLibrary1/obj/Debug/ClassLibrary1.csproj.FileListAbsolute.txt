@@ -1,0 +1,36 @@
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Ning\Desktop\2017-11-23\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Ning\Desktop\2017-11-23\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ning\Desktop\2017-11-23\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Ning\Desktop\2017-11-23\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Ning\Desktop\2017-11-23\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Ning\Desktop\2017-11-23\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

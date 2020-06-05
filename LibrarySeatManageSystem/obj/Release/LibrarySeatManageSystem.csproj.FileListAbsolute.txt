@@ -1,0 +1,58 @@
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\LibrarySeatManageSystem.exe.config
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\LibrarySeatManageSystem.exe
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\LibrarySeatManageSystem.pdb
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\Newtonsoft.Json.dll
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\Newtonsoft.Json.xml
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csprojResolveAssemblyReference.cache
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\MainWindow.g.cs
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\App.g.cs
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem_MarkupCompile.cache
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem_MarkupCompile.lref
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\MainWindow.baml
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.g.resources
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.Properties.Resources.resources
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csproj.GenerateResource.cache
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csproj.CopyComplete
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.exe
+D:\重要项目\座位管理系统\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\LibrarySeatManageSystem.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Release\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csprojResolveAssemblyReference.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\MainWindow.g.cs
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\App.g.cs
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem_MarkupCompile.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem_MarkupCompile.lref
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\MainWindow.baml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.g.resources
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.Properties.Resources.resources
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csproj.GenerateResource.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Release\LibrarySeatManageSystem.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Release\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Release\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Release\LibraryOperation.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Release\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Release\LibraryOperation.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Release\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\MainWindow.g.cs
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\App.g.cs
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem_MarkupCompile.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem_MarkupCompile.lref
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\MainWindow.baml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.g.resources
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.Properties.Resources.resources
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csproj.GenerateResource.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Release\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Release\StackExchange.Redis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Release\StackExchange.Redis.xml

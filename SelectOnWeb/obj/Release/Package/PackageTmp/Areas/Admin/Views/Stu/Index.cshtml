@@ -1,0 +1,84 @@
+﻿@model IEnumerable<SelectOnWeb.Models.tb_student>
+
+@{
+    ViewBag.Title = "新建";
+}
+
+<h2>新建学生</h2>
+
+<p>
+    @Html.ActionLink("新建", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.no)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.card)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.grade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.wechat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.department)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.college)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.@class)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.weapp)
+        </th>        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.no)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.card)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.grade)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.wechat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.department)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.college)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.@class)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.weapp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tb_seat_student.no)
+        </td>
+        <td>
+            @Html.ActionLink("编辑", "Edit", new { id = item.no }) |
+            @Html.ActionLink("详细", "Details", new { id = item.no }) |
+            @Html.ActionLink("删除", "Delete", new { id = item.no })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,188 @@
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\App.g.cs
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.Cache
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\App.g.cs
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.Cache
+C:\Users\Ning\Desktop\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojResolveAssemblyReference.cache
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\App.g.cs
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.Cache
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+C:\重要项目\2017-11-23\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojResolveAssemblyReference.cache
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\App.g.cs
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.Cache
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+C:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojResolveAssemblyReference.cache
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\App.g.cs
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.cache
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CopyComplete
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+D:\重要项目\座位管理系统\2018-2-6日\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\App.g.cs
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\App.g.cs
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CopyComplete
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\App.g.cs
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Debug\LibraryOperation.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Debug\LibraryOperation.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Debug\StackExchange.Redis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\LibrarySeatManageSystem\bin\Debug\StackExchange.Redis.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\bin\Debug\LibraryOperation.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\bin\Debug\StackExchange.Redis.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\bin\Debug\LibraryOperation.pdb
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\bin\Debug\StackExchange.Redis.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojAssemblyReference.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\App.g.cs
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CopyComplete
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe.config
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.exe
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\bin\Debug\LibrarySeatManageSystem.pdb
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\bin\Debug\LibraryOperation.dll
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.dll
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\bin\Debug\StackExchange.Redis.dll
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\bin\Debug\LibraryOperation.pdb
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\bin\Debug\Newtonsoft.Json.xml
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\bin\Debug\StackExchange.Redis.xml
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csprojAssemblyReference.cache
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\MainWindow.g.cs
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\App.g.cs
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.cache
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem_MarkupCompile.lref
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\MainWindow.baml
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.g.resources
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.Properties.Resources.resources
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.GenerateResource.cache
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CoreCompileInputs.cache
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.csproj.CopyComplete
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.exe
+G:\课程资料\毕业设计\李宁毕业设计  图书馆座位管理系统程序\程序项目文件\LibrarySeatManageSystem\obj\Debug\LibrarySeatManageSystem.pdb

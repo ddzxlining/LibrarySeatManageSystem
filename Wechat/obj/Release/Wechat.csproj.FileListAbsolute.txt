@@ -1,0 +1,36 @@
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\bin\Release\Wechat.exe.config
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\bin\Release\Wechat.exe
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\bin\Release\Wechat.pdb
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\bin\Release\Newtonsoft.Json.dll
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\bin\Release\StackExchange.Redis.dll
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\bin\Release\Newtonsoft.Json.xml
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\bin\Release\StackExchange.Redis.xml
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\obj\Release\Wechat.csprojResolveAssemblyReference.cache
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\obj\Release\Wechat.csproj.CoreCompileInputs.cache
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\obj\Release\Wechat.csproj.CopyComplete
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\obj\Release\Wechat.exe
+D:\重要项目\座位管理系统\2018-4-4日 本地\Wechat\obj\Release\Wechat.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Release\Wechat.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Release\Wechat.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Release\Wechat.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Release\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Release\StackExchange.Redis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Release\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Release\StackExchange.Redis.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Release\Wechat.csprojResolveAssemblyReference.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Release\Wechat.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Release\Wechat.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Release\Wechat.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Release\Wechat.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\bin\Release\Wechat.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\bin\Release\Wechat.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\bin\Release\Wechat.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\bin\Release\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\bin\Release\StackExchange.Redis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\bin\Release\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\bin\Release\StackExchange.Redis.xml
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\obj\Release\Wechat.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\obj\Release\Wechat.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\obj\Release\Wechat.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\obj\Release\Wechat.exe
+D:\Visual Studio Workplace\CodeCloud\2018-5-18日 本地\Wechat\obj\Release\Wechat.pdb

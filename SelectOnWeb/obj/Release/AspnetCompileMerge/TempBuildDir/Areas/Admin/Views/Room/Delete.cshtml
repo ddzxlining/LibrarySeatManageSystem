@@ -1,0 +1,55 @@
+﻿@model SelectOnWeb.Models.tb_room
+
+@{
+    ViewBag.Title = "删除";
+}
+
+<h2>删除</h2>
+
+<h3>确认要删除自习室吗?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tables)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tables)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cur)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cur)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.after15min)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.after15min)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="删除" class="btn btn-default" /> |
+            @Html.ActionLink("返回列表", "Index")
+        </div>
+    }
+</div>

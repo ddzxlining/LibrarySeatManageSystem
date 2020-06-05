@@ -1,0 +1,112 @@
+﻿.roominfo {
+    clear: both;
+    position: absolute;
+    top: 34px;
+    width: 250px;
+    height: auto;
+    display: none;
+    z-index: 10;
+    background: #fff;
+    border-radius: 5px;
+}
+@media only screen and (min-width : 1224px) {
+    .seat {
+        position: absolute;
+        text-align: center;
+        margin: 1px;
+        color: white;
+        width: 38px;
+        height: 38px;
+        line-height: 38px;
+    }
+    .A {
+        left: 0px;
+        top: 0px;
+    }
+    .B {
+        left: 40px;
+        top: 0px;
+    }
+    .C {
+        left: 0px;
+        top: 40px;
+    }
+    .D {
+        left: 40px;
+        top: 40px;
+    }
+    .tablelayout {
+        position: relative;
+        width: 82px;
+        height: 82px;
+        border: red 1px solid;
+        float: left;
+        margin: 5px;
+    }
+    .tablename {
+        background-color: green;
+        position: absolute;
+        left: 20px;
+        top: 30px;
+        width: 40px;
+        height: 23px;
+        line-height: 23px;
+        text-align: center;
+        font-size: 24px;
+        color: white;
+    }
+}
+@media only screen and (max-width : 1223px) {
+    .seat {
+        position: absolute;
+        text-align: center;
+        margin: 1px;
+        color: white;
+        width: 15px;
+        height: 15px;
+        line-height: 15px;
+        font-size:8px;
+    }
+
+    .A {
+        left: 0px;
+        top: 0px;
+    }
+
+    .B {
+        left: 17px;
+        top: 0px;
+    }
+
+    .C {
+        left: 0px;
+        top: 17px;
+    }
+
+    .D {
+        left: 17px;
+        top: 17px;
+    }
+
+    .tablelayout {
+        position: relative;
+        width: 36px;
+        height: 36px;
+        border: red 1px solid;
+        float: left;
+        margin: 3px;
+    }
+
+    .tablename {
+        background-color: green;
+        position: absolute;
+        left: 8px;
+        top: 12px;
+        width: 20px;
+        height: 10px;
+        line-height: 10px;
+        text-align: center;
+        font-size: 6px;
+        color: white;
+    }
+}

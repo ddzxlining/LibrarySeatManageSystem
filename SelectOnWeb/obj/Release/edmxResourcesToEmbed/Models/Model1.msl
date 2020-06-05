@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="db_libraryModelStoreContainer" CdmEntityContainer="db_libraryEntities">
+    <EntitySetMapping Name="tb_room">
+      <EntityTypeMapping TypeName="db_libraryModel.tb_room">
+        <MappingFragment StoreEntitySet="tb_room">
+          <ScalarProperty Name="book" ColumnName="book" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="tables" ColumnName="tables" />
+          <ScalarProperty Name="cur" ColumnName="cur" />
+          <ScalarProperty Name="after15min" ColumnName="after15min" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_seat">
+      <EntityTypeMapping TypeName="db_libraryModel.tb_seat">
+        <MappingFragment StoreEntitySet="tb_seat">
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="room" ColumnName="room" />
+          <ScalarProperty Name="desk" ColumnName="desk" />
+          <ScalarProperty Name="seat" ColumnName="seat" />
+          <ScalarProperty Name="available" ColumnName="available" />
+          <ScalarProperty Name="anyone" ColumnName="anyone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_seat_student">
+      <EntityTypeMapping TypeName="db_libraryModel.tb_seat_student">
+        <MappingFragment StoreEntitySet="tb_seat_student">
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="room" ColumnName="room" />
+          <ScalarProperty Name="seat_no" ColumnName="seat_no" />
+          <ScalarProperty Name="time_start" ColumnName="time_start" />
+          <ScalarProperty Name="time_end" ColumnName="time_end" />
+          <ScalarProperty Name="isoutdate" ColumnName="isoutdate" />
+          <ScalarProperty Name="issend_5_message" ColumnName="issend_5_message" />
+          <ScalarProperty Name="issend_20_message" ColumnName="issend_20_message" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_student">
+      <EntityTypeMapping TypeName="db_libraryModel.tb_student">
+        <MappingFragment StoreEntitySet="tb_student">
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="card" ColumnName="card" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="grade" ColumnName="grade" />
+          <ScalarProperty Name="wechat" ColumnName="wechat" />
+          <ScalarProperty Name="department" ColumnName="department" />
+          <ScalarProperty Name="college" ColumnName="college" />
+          <ScalarProperty Name="class" ColumnName="class" />
+          <ScalarProperty Name="weapp" ColumnName="weapp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_order">
+      <EntityTypeMapping TypeName="db_libraryModel.tb_order">
+        <MappingFragment StoreEntitySet="tb_order">
+          <ScalarProperty Name="operation_time" ColumnName="operation_time" />
+          <ScalarProperty Name="seat" ColumnName="seat" />
+          <ScalarProperty Name="room" ColumnName="room" />
+          <ScalarProperty Name="no" ColumnName="no" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MessageModels">
+      <EntityTypeMapping TypeName="db_libraryModel.MessageModels">
+        <MappingFragment StoreEntitySet="MessageModels">
+          <ScalarProperty Name="Precision" ColumnName="Precision" />
+          <ScalarProperty Name="Longitude" ColumnName="Longitude" />
+          <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+          <ScalarProperty Name="Ticket" ColumnName="Ticket" />
+          <ScalarProperty Name="EventKey" ColumnName="EventKey" />
+          <ScalarProperty Name="Event" ColumnName="Event" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Label" ColumnName="Label" />
+          <ScalarProperty Name="Scale" ColumnName="Scale" />
+          <ScalarProperty Name="Location_Y" ColumnName="Location_Y" />
+          <ScalarProperty Name="Location_X" ColumnName="Location_X" />
+          <ScalarProperty Name="ThumbMediaId" ColumnName="ThumbMediaId" />
+          <ScalarProperty Name="Format" ColumnName="Format" />
+          <ScalarProperty Name="MediaId" ColumnName="MediaId" />
+          <ScalarProperty Name="PicUrl" ColumnName="PicUrl" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+          <ScalarProperty Name="MsgId" ColumnName="MsgId" />
+          <ScalarProperty Name="MsgType" ColumnName="MsgType" />
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="FromUserName" ColumnName="FromUserName" />
+          <ScalarProperty Name="ToUserName" ColumnName="ToUserName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

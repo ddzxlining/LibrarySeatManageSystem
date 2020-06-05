@@ -1,0 +1,66 @@
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\Wechat\bin\Debug\Wechat.exe.config
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\Wechat\bin\Debug\Wechat.exe
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\Wechat\bin\Debug\Wechat.pdb
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\Wechat\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\Wechat\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\Wechat\obj\Debug\Wechat.csprojResolveAssemblyReference.cache
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\Wechat\obj\Debug\Wechat.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\Wechat\obj\Debug\Wechat.exe
+D:\Visual Studio Workplace\Projects\LibrarySeatManageSystem\Wechat\obj\Debug\Wechat.pdb
+C:\Users\Ning\Desktop\2017-11-23\Wechat\bin\Debug\Wechat.exe.config
+C:\Users\Ning\Desktop\2017-11-23\Wechat\bin\Debug\Wechat.exe
+C:\Users\Ning\Desktop\2017-11-23\Wechat\bin\Debug\Wechat.pdb
+C:\Users\Ning\Desktop\2017-11-23\Wechat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ning\Desktop\2017-11-23\Wechat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ning\Desktop\2017-11-23\Wechat\obj\Debug\Wechat.csprojResolveAssemblyReference.cache
+C:\Users\Ning\Desktop\2017-11-23\Wechat\obj\Debug\Wechat.csproj.CoreCompileInputs.cache
+C:\Users\Ning\Desktop\2017-11-23\Wechat\obj\Debug\Wechat.exe
+C:\Users\Ning\Desktop\2017-11-23\Wechat\obj\Debug\Wechat.pdb
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\bin\Debug\Wechat.exe.config
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\bin\Debug\Wechat.exe
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\bin\Debug\Wechat.pdb
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\bin\Debug\Newtonsoft.Json.dll
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\bin\Debug\Newtonsoft.Json.xml
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\obj\Debug\Wechat.csprojResolveAssemblyReference.cache
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\obj\Debug\Wechat.csproj.CoreCompileInputs.cache
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\obj\Debug\Wechat.exe
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\obj\Debug\Wechat.pdb
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\bin\Debug\StackExchange.Redis.dll
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\bin\Debug\StackExchange.Redis.xml
+C:\重要项目\座位管理系统\2018-2-6日\Wechat\obj\Debug\Wechat.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Debug\Wechat.exe.config
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Debug\Wechat.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Debug\Wechat.pdb
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Debug\StackExchange.Redis.dll
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\bin\Debug\StackExchange.Redis.xml
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Debug\Wechat.csprojResolveAssemblyReference.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Debug\Wechat.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Debug\Wechat.csproj.CopyComplete
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Debug\Wechat.exe
+D:\Visual Studio Workplace\CodeCloud\2018-4-4日 本地\Wechat\obj\Debug\Wechat.pdb
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\bin\Debug\Wechat.exe.config
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\bin\Debug\Wechat.exe
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\bin\Debug\Wechat.pdb
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\bin\Debug\StackExchange.Redis.dll
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\bin\Debug\StackExchange.Redis.xml
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\obj\Debug\Wechat.csprojAssemblyReference.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\obj\Debug\Wechat.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\obj\Debug\Wechat.csproj.CopyComplete
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\obj\Debug\Wechat.exe
+D:\Visual Studio Workplace\repos\2018-4-4日 本地\Wechat\obj\Debug\Wechat.pdb
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\bin\Debug\Wechat.exe.config
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\bin\Debug\Wechat.exe
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\bin\Debug\Wechat.pdb
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\bin\Debug\StackExchange.Redis.dll
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\bin\Debug\StackExchange.Redis.xml
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\obj\Debug\Wechat.csprojAssemblyReference.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\obj\Debug\Wechat.csproj.CoreCompileInputs.cache
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\obj\Debug\Wechat.csproj.CopyComplete
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\obj\Debug\Wechat.exe
+C:\Users\lining\Desktop\答辩资料\2018-5-22日 本地\Wechat\obj\Debug\Wechat.pdb

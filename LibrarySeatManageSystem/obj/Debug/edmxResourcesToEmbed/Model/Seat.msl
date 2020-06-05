@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="db_libraryModelStoreContainer" CdmEntityContainer="db_libraryEntities">
+    <EntitySetMapping Name="tb_room">
+      <EntityTypeMapping TypeName="db_libraryModel.tb_room">
+        <MappingFragment StoreEntitySet="tb_room">
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="tables" ColumnName="tables" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_seat">
+      <EntityTypeMapping TypeName="db_libraryModel.tb_seat">
+        <MappingFragment StoreEntitySet="tb_seat">
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="room" ColumnName="room" />
+          <ScalarProperty Name="desk" ColumnName="desk" />
+          <ScalarProperty Name="seat" ColumnName="seat" />
+          <ScalarProperty Name="available" ColumnName="available" />
+          <ScalarProperty Name="anyone" ColumnName="anyone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_seat_student">
+      <EntityTypeMapping TypeName="db_libraryModel.tb_seat_student">
+        <MappingFragment StoreEntitySet="tb_seat_student">
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="room" ColumnName="room" />
+          <ScalarProperty Name="seat_no" ColumnName="seat_no" />
+          <ScalarProperty Name="time_start" ColumnName="time_start" />
+          <ScalarProperty Name="time_end" ColumnName="time_end" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_student">
+      <EntityTypeMapping TypeName="db_libraryModel.tb_student">
+        <MappingFragment StoreEntitySet="tb_student">
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="grade" ColumnName="grade" />
+          <ScalarProperty Name="wechat" ColumnName="wechat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="db_libraryModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="MessageModels">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ToUserName" Type="nvarchar(max)" />
+    <Property Name="FromUserName" Type="nvarchar(max)" />
+    <Property Name="CreateTime" Type="nvarchar(max)" />
+    <Property Name="MsgType" Type="nvarchar(max)" />
+    <Property Name="MsgId" Type="nvarchar(max)" />
+    <Property Name="Content" Type="nvarchar(max)" />
+    <Property Name="PicUrl" Type="nvarchar(max)" />
+    <Property Name="MediaId" Type="nvarchar(max)" />
+    <Property Name="Format" Type="nvarchar(max)" />
+    <Property Name="ThumbMediaId" Type="nvarchar(max)" />
+    <Property Name="Location_X" Type="nvarchar(max)" />
+    <Property Name="Location_Y" Type="nvarchar(max)" />
+    <Property Name="Scale" Type="nvarchar(max)" />
+    <Property Name="Label" Type="nvarchar(max)" />
+    <Property Name="Title" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="Url" Type="nvarchar(max)" />
+    <Property Name="Event" Type="nvarchar(max)" />
+    <Property Name="EventKey" Type="nvarchar(max)" />
+    <Property Name="Ticket" Type="nvarchar(max)" />
+    <Property Name="Latitude" Type="nvarchar(max)" />
+    <Property Name="Longitude" Type="nvarchar(max)" />
+    <Property Name="Precision" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="tb_order">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="room" Type="smallint" />
+    <Property Name="seat" Type="int" />
+    <Property Name="operation_time" Type="timestamp" StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <EntityType Name="tb_room">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="smallint" Nullable="false" />
+    <Property Name="name" Type="nchar" MaxLength="20" />
+    <Property Name="tables" Type="int" />
+    <Property Name="cur" Type="int" />
+    <Property Name="after15min" Type="int" />
+    <Property Name="total" Type="int" />
+    <Property Name="book" Type="int" />
+  </EntityType>
+  <EntityType Name="tb_seat">
+    <Key>
+      <PropertyRef Name="no" />
+      <PropertyRef Name="room" />
+    </Key>
+    <Property Name="no" Type="int" Nullable="false" />
+    <Property Name="room" Type="smallint" Nullable="false" />
+    <Property Name="desk" Type="int" />
+    <Property Name="seat" Type="smallint" />
+    <Property Name="available" Type="bit" />
+    <Property Name="anyone" Type="bit" />
+  </EntityType>
+  <EntityType Name="tb_seat_student">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="room" Type="smallint" />
+    <Property Name="seat_no" Type="int" />
+    <Property Name="time_start" Type="datetime" />
+    <Property Name="time_end" Type="datetime" />
+    <Property Name="isoutdate" Type="bit" />
+    <Property Name="issend_5_message" Type="bit" />
+    <Property Name="issend_20_message" Type="bit" />
+  </EntityType>
+  <EntityType Name="tb_student">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="card" Type="char" MaxLength="11" />
+    <Property Name="name" Type="nchar" MaxLength="20" />
+    <Property Name="grade" Type="int" />
+    <Property Name="wechat" Type="varchar" MaxLength="50" />
+    <Property Name="department" Type="nchar" MaxLength="20" />
+    <Property Name="college" Type="int" />
+    <Property Name="class" Type="nchar" MaxLength="20" />
+    <Property Name="weapp" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_room">
+    <End Role="tb_room" Type="Self.tb_room" Multiplicity="1" />
+    <End Role="tb_seat" Type="Self.tb_seat" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_room">
+        <PropertyRef Name="no" />
+      </Principal>
+      <Dependent Role="tb_seat">
+        <PropertyRef Name="room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_order_tb_seat">
+    <End Role="tb_seat" Type="Self.tb_seat" Multiplicity="0..1" />
+    <End Role="tb_order" Type="Self.tb_order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_seat">
+        <PropertyRef Name="no" />
+        <PropertyRef Name="room" />
+      </Principal>
+      <Dependent Role="tb_order">
+        <PropertyRef Name="seat" />
+        <PropertyRef Name="room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_order_tb_student">
+    <End Role="tb_student" Type="Self.tb_student" Multiplicity="1" />
+    <End Role="tb_order" Type="Self.tb_order" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="tb_student">
+        <PropertyRef Name="no" />
+      </Principal>
+      <Dependent Role="tb_order">
+        <PropertyRef Name="no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_seat_student_room">
+    <End Role="tb_room" Type="Self.tb_room" Multiplicity="0..1" />
+    <End Role="tb_seat_student" Type="Self.tb_seat_student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_room">
+        <PropertyRef Name="no" />
+      </Principal>
+      <Dependent Role="tb_seat_student">
+        <PropertyRef Name="room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_seat_student_seatnum">
+    <End Role="tb_seat" Type="Self.tb_seat" Multiplicity="0..1" />
+    <End Role="tb_seat_student" Type="Self.tb_seat_student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_seat">
+        <PropertyRef Name="no" />
+        <PropertyRef Name="room" />
+      </Principal>
+      <Dependent Role="tb_seat_student">
+        <PropertyRef Name="seat_no" />
+        <PropertyRef Name="room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_xuehao">
+    <End Role="tb_student" Type="Self.tb_student" Multiplicity="1" />
+    <End Role="tb_seat_student" Type="Self.tb_seat_student" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="tb_student">
+        <PropertyRef Name="no" />
+      </Principal>
+      <Dependent Role="tb_seat_student">
+        <PropertyRef Name="no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="db_libraryModelStoreContainer">
+    <EntitySet Name="MessageModels" EntityType="Self.MessageModels" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_order" EntityType="Self.tb_order" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_room" EntityType="Self.tb_room" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_seat" EntityType="Self.tb_seat" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_seat_student" EntityType="Self.tb_seat_student" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_student" EntityType="Self.tb_student" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_room" Association="Self.FK_room">
+      <End Role="tb_room" EntitySet="tb_room" />
+      <End Role="tb_seat" EntitySet="tb_seat" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_order_tb_seat" Association="Self.FK_tb_order_tb_seat">
+      <End Role="tb_seat" EntitySet="tb_seat" />
+      <End Role="tb_order" EntitySet="tb_order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_order_tb_student" Association="Self.FK_tb_order_tb_student">
+      <End Role="tb_student" EntitySet="tb_student" />
+      <End Role="tb_order" EntitySet="tb_order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_seat_student_room" Association="Self.FK_tb_seat_student_room">
+      <End Role="tb_room" EntitySet="tb_room" />
+      <End Role="tb_seat_student" EntitySet="tb_seat_student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_seat_student_seatnum" Association="Self.FK_tb_seat_student_seatnum">
+      <End Role="tb_seat" EntitySet="tb_seat" />
+      <End Role="tb_seat_student" EntitySet="tb_seat_student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_xuehao" Association="Self.FK_xuehao">
+      <End Role="tb_student" EntitySet="tb_student" />
+      <End Role="tb_seat_student" EntitySet="tb_seat_student" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

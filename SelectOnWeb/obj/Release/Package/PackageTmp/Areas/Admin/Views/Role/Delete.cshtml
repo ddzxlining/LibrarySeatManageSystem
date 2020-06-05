@@ -1,0 +1,23 @@
+﻿@model string
+@{
+    ViewBag.Title = "删除角色";
+}
+<h3><font style="color:red;">确定要删除该角色吗？</font></h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt style="text-align:left"> 角色名称</dt>
+        <dd>@Html.DisplayFor(model => model)</dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        <input type="submit" value="删除" class="btn btn-default" />
+        @Html.ActionLink("取消", "Index", null, new { @class = "btn btn-default" })
+    </div>
+        
+    }
+</div>

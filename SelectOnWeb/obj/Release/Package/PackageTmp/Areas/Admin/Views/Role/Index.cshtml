@@ -1,0 +1,28 @@
+﻿@model IEnumerable<SelectOnWeb.Models.AppRole>
+@{
+    ViewBag.Title = "主页";
+}
+
+<h2>主页</h2>
+<p>
+    @Html.ActionLink("新建角色", "Add")
+</p>
+<table class="table" style="font-size:20px;">
+    <tr>
+        <th>角色名称</th>      
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem=>item.Name)
+        </td>
+        <td>
+            @*@Html.ActionLink("编辑", "Edit", new { roleName = item.Name })*@
+            @Html.ActionLink("详细信息", "Details", new { roleName = item.Name }) 
+            @Html.ActionLink("删除", "Delete", new { roleName = item.Name })
+        </td>
+    </tr>
+    }
+</table>

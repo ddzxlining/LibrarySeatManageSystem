@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="db_libraryModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tb_room">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="Int16" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="tables" Type="Int32" />
+    <NavigationProperty Name="tb_seat" Relationship="Self.FK_room" FromRole="tb_room" ToRole="tb_seat" />
+    <NavigationProperty Name="tb_seat_student" Relationship="Self.FK_tb_seat_student_room" FromRole="tb_room" ToRole="tb_seat_student" />
+  </EntityType>
+  <EntityType Name="tb_seat">
+    <Key>
+      <PropertyRef Name="no" />
+      <PropertyRef Name="room" />
+    </Key>
+    <Property Name="no" Type="Int32" Nullable="false" />
+    <Property Name="room" Type="Int16" Nullable="false" />
+    <Property Name="desk" Type="Int32" />
+    <Property Name="seat" Type="Int16" />
+    <Property Name="available" Type="Boolean" />
+    <Property Name="anyone" Type="Boolean" />
+    <NavigationProperty Name="tb_room" Relationship="Self.FK_room" FromRole="tb_seat" ToRole="tb_room" />
+    <NavigationProperty Name="tb_seat_student" Relationship="Self.FK_tb_seat_student_seatnum" FromRole="tb_seat" ToRole="tb_seat_student" />
+  </EntityType>
+  <EntityType Name="tb_seat_student">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="room" Type="Int16" />
+    <Property Name="seat_no" Type="Int32" />
+    <Property Name="time_start" Type="Time" Precision="7" />
+    <Property Name="time_end" Type="Time" Precision="7" />
+    <NavigationProperty Name="tb_room" Relationship="Self.FK_tb_seat_student_room" FromRole="tb_seat_student" ToRole="tb_room" />
+    <NavigationProperty Name="tb_seat" Relationship="Self.FK_tb_seat_student_seatnum" FromRole="tb_seat_student" ToRole="tb_seat" />
+    <NavigationProperty Name="tb_student" Relationship="Self.FK_xuehao" FromRole="tb_seat_student" ToRole="tb_student" />
+  </EntityType>
+  <EntityType Name="tb_student">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="grade" Type="Int32" />
+    <Property Name="wechat" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tb_seat_student" Relationship="Self.FK_xuehao" FromRole="tb_student" ToRole="tb_seat_student" />
+  </EntityType>
+  <Association Name="FK_room">
+    <End Role="tb_room" Type="Self.tb_room" Multiplicity="1" />
+    <End Role="tb_seat" Type="Self.tb_seat" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_room">
+        <PropertyRef Name="no" />
+      </Principal>
+      <Dependent Role="tb_seat">
+        <PropertyRef Name="room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_seat_student_room">
+    <End Role="tb_room" Type="Self.tb_room" Multiplicity="0..1" />
+    <End Role="tb_seat_student" Type="Self.tb_seat_student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_room">
+        <PropertyRef Name="no" />
+      </Principal>
+      <Dependent Role="tb_seat_student">
+        <PropertyRef Name="room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_seat_student_seatnum">
+    <End Role="tb_seat" Type="Self.tb_seat" Multiplicity="0..1" />
+    <End Role="tb_seat_student" Type="Self.tb_seat_student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_seat">
+        <PropertyRef Name="no" />
+        <PropertyRef Name="room" />
+      </Principal>
+      <Dependent Role="tb_seat_student">
+        <PropertyRef Name="seat_no" />
+        <PropertyRef Name="room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_xuehao">
+    <End Role="tb_student" Type="Self.tb_student" Multiplicity="1" />
+    <End Role="tb_seat_student" Type="Self.tb_seat_student" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="tb_student">
+        <PropertyRef Name="no" />
+      </Principal>
+      <Dependent Role="tb_seat_student">
+        <PropertyRef Name="no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="db_libraryEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tb_room" EntityType="Self.tb_room" />
+    <EntitySet Name="tb_seat" EntityType="Self.tb_seat" />
+    <EntitySet Name="tb_seat_student" EntityType="Self.tb_seat_student" />
+    <EntitySet Name="tb_student" EntityType="Self.tb_student" />
+    <AssociationSet Name="FK_room" Association="Self.FK_room">
+      <End Role="tb_room" EntitySet="tb_room" />
+      <End Role="tb_seat" EntitySet="tb_seat" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_seat_student_room" Association="Self.FK_tb_seat_student_room">
+      <End Role="tb_room" EntitySet="tb_room" />
+      <End Role="tb_seat_student" EntitySet="tb_seat_student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_seat_student_seatnum" Association="Self.FK_tb_seat_student_seatnum">
+      <End Role="tb_seat" EntitySet="tb_seat" />
+      <End Role="tb_seat_student" EntitySet="tb_seat_student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_xuehao" Association="Self.FK_xuehao">
+      <End Role="tb_student" EntitySet="tb_student" />
+      <End Role="tb_seat_student" EntitySet="tb_seat_student" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
